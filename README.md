@@ -6,8 +6,6 @@
 
 Tenho 21 anos e moro em São Paulo, sou um programador Front-End que analisa cada pixel, gosto bastante de tecnologia e acho incrível a liberdade de poder desenvolver qualquer coisa usando conhecimento e criatividade.
 
-![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquep&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu utilizo
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=isaquep&layout=compact' />
