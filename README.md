@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquepinheiro2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaquep/)
 
-Tenho 21 anos e moro em São Paulo, sou um programador Front-End que analisa cada pixel, gosto bastante de tecnologia e acho incrível a liberdade de poder desenvolver qualquer coisa usando conhecimento e criatividade.
+Tenho 23 anos e moro em São Paulo, sou um programador Front-End que analisa cada pixel, gosto bastante de tecnologia e acho incrível a liberdade de poder desenvolver qualquer coisa usando conhecimento e criatividade.
 
 ## Tecnologias que eu utilizo
 
